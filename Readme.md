@@ -15,7 +15,7 @@ Description
 Aprenda de vez os conceitos fundamentais deste incrível framework. Veja desde os conceitos de request, ate criação do projeto, estrutura, apps, models, forms, views, urls e muito mais. Veja por que o Django é o maior e melhor framework de desenvolvimento web ágil da atualidade.
 
 Introdução
-## Conceitos
+-- Conceitos
 ## Preparacao do ambiente
 ## Criação do projeto
 ## Primeira app
