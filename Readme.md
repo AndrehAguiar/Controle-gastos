@@ -6,6 +6,43 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br).
 O projeto usado foi criado durante o curso, Django 2.0 - Aprendendo os conceitos fundamentais com o Gregory Pacheco.
 Confira em: [udemy.com](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais/).
 
+Skill level: Beginner Level
+
+Features
+Available on iOS and Android
+
+Description
+Aprenda de vez os conceitos fundamentais deste incrível framework. Veja desde os conceitos de request, ate criação do projeto, estrutura, apps, models, forms, views, urls e muito mais. Veja por que o Django é o maior e melhor framework de desenvolvimento web ágil da atualidade.
+
+Introdução
+## Conceitos
+## Preparacao do ambiente
+## Criação do projeto
+## Primeira app
+## Models
+## Views
+## Forms
+## URLs
+## CRUD completo
+
+What you’ll learn
+## Entender o que é o Django framework
+## Preparar o ambiente de desenvolvimento
+## Entender o que é uma request
+## Conhecer o ciclo de vida de uma request no Django
+## Utilização dos models para persistir dados no banco de dados
+## Criar suas próprias views
+## Configurações de Rotas
+## Utilização dos comandos makemigrations e migrate
+## Crud completo
+
+Are there any course requirements or prerequisites?
+## Ter uma noção sobre Python e HTML
+
+Saiba mais em: [udemy.com](https://www.udemy.com/course/django-20-aprendendo-os-conceitos-fundamentais)
+
+Gregory Pacheco
+Engenheiro/Arquiteto de Software
 
 Aluno: André Aguiar - Gestor de TI e WEB developer.
 [topartes.com](https://topartes.com)
